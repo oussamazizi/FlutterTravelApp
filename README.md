@@ -1,4 +1,4 @@
-# fluttertest
+# FlutterTravelApp
 
 A new Flutter project.
 
